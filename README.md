@@ -1,4 +1,4 @@
-# 📱 Deepfake Detection Android App
+# 📱 DeepShield-Deepfake Detection Android App
 
 An AI-powered Android application that detects whether an image is **real or fake (deepfake)** directly on-device using an integrated machine learning model.
 This app performs **real-time inference without any backend**, making it fast, private, and efficient.
