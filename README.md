@@ -12,7 +12,7 @@ This app performs **real-time inference without any backend**, making it fast, p
 * 📊 Displays prediction result with confidence score
 * ⚡ Fast inference using integrated ML model
 * 🔁 Re-analyze images instantly
-* 🎨 Modern UI built with Jetpack Compose
+* 🎨 Modern UI built with Jetpack Compose//
 
 ---
 
